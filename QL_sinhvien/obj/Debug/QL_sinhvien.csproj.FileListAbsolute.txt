@@ -1,0 +1,26 @@
+C:\Users\ADMIN\source\repos\QL_sinhvien\QL_sinhvien\bin\Debug\QL_sinhvien.exe.config
+C:\Users\ADMIN\source\repos\QL_sinhvien\QL_sinhvien\bin\Debug\QL_sinhvien.exe
+C:\Users\ADMIN\source\repos\QL_sinhvien\QL_sinhvien\bin\Debug\QL_sinhvien.pdb
+C:\Users\ADMIN\source\repos\QL_sinhvien\QL_sinhvien\obj\Debug\QL_sinhvien.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\QL_sinhvien\QL_sinhvien\obj\Debug\QL_sinhvien.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\QL_sinhvien\QL_sinhvien\obj\Debug\QL_sinhvien.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\QL_sinhvien\QL_sinhvien\obj\Debug\QL_sinhvien.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\QL_sinhvien\QL_sinhvien\obj\Debug\QL_sinhvien.exe
+C:\Users\ADMIN\source\repos\QL_sinhvien\QL_sinhvien\obj\Debug\QL_sinhvien.pdb
+C:\Users\ADMIN\source\repos\QL_sinhvien\QL_sinhvien\obj\Debug\QL_sinhvien.DangNhap.resources
+C:\Users\ADMIN\source\repos\QL_sinhvien\QL_sinhvien\obj\Debug\QL_sinhvien.ChucNang.resources
+C:\Users\ADMIN\source\repos\QL_sinhvien\QL_sinhvien\obj\Debug\QL_sinhvien.Lop.resources
+C:\Users\ADMIN\source\repos\QL_sinhvien\QL_sinhvien\obj\Debug\QL_sinhvien.SinhVien.resources
+D:\hoc ky 5\cong nghe phan mem\QL_sinhvien\QL_sinhvien\bin\Debug\QL_sinhvien.exe.config
+D:\hoc ky 5\cong nghe phan mem\QL_sinhvien\QL_sinhvien\bin\Debug\QL_sinhvien.exe
+D:\hoc ky 5\cong nghe phan mem\QL_sinhvien\QL_sinhvien\bin\Debug\QL_sinhvien.pdb
+D:\hoc ky 5\cong nghe phan mem\QL_sinhvien\QL_sinhvien\obj\Debug\QL_sinhvien.csprojAssemblyReference.cache
+D:\hoc ky 5\cong nghe phan mem\QL_sinhvien\QL_sinhvien\obj\Debug\QL_sinhvien.ChucNang.resources
+D:\hoc ky 5\cong nghe phan mem\QL_sinhvien\QL_sinhvien\obj\Debug\QL_sinhvien.DangNhap.resources
+D:\hoc ky 5\cong nghe phan mem\QL_sinhvien\QL_sinhvien\obj\Debug\QL_sinhvien.Lop.resources
+D:\hoc ky 5\cong nghe phan mem\QL_sinhvien\QL_sinhvien\obj\Debug\QL_sinhvien.Properties.Resources.resources
+D:\hoc ky 5\cong nghe phan mem\QL_sinhvien\QL_sinhvien\obj\Debug\QL_sinhvien.SinhVien.resources
+D:\hoc ky 5\cong nghe phan mem\QL_sinhvien\QL_sinhvien\obj\Debug\QL_sinhvien.csproj.GenerateResource.cache
+D:\hoc ky 5\cong nghe phan mem\QL_sinhvien\QL_sinhvien\obj\Debug\QL_sinhvien.csproj.CoreCompileInputs.cache
+D:\hoc ky 5\cong nghe phan mem\QL_sinhvien\QL_sinhvien\obj\Debug\QL_sinhvien.exe
+D:\hoc ky 5\cong nghe phan mem\QL_sinhvien\QL_sinhvien\obj\Debug\QL_sinhvien.pdb
